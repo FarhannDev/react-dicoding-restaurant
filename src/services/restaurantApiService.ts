@@ -119,3 +119,5 @@ export default function RestaurantApiService() {
     addCustomerReview,
   };
 }
+
+export const restaurantService = RestaurantApiService();
