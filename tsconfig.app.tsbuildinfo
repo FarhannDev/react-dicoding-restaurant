@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/vite-env.d.ts","./src/config/api.ts","./src/config/axios.ts","./src/models/restaurants.ts","./src/router/index.tsx","./src/services/restaurantapiservice.ts","./src/types/response.d.ts","./src/types/restaurant.d.ts","./src/views/homeview.tsx"],"version":"5.6.2"}
